@@ -11,7 +11,7 @@ echo -e "\e[032m" "Please Don't copy the Code And Give creadits If you are using
 clear
 
 
-echo "play Games in Termux by-LearnTermux.tech"
+echo "play Games in Termux by-𝐓𝐀𝐍𝐕𝐈𝐑"
 
 echo -e "\e[032m"
 pkg install ruby -y && gem install lolcat
