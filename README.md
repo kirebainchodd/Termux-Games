@@ -3,11 +3,12 @@
 
 <b>Termux game is a Script where you can find all The Games that Are available for Termux as well as All the games that are available in Termux Repository. I have also included some games that are on GitHub or written in other languages other than bash like Hangman and 2048. This Script is not complete yet, I am still working on it so I will add more games in the Future.</b>
 
-Author👨‍💻: https://github.com/khansaad1275 <br>
+Author👨‍💻:
+https://github.com/kirebainchodd/ <br>
 
-Website🌎: www.Learntermux.tech <br>
+Youtube🌎: TRS Tasin YT <br>
 
-Instagram : https://www.instagram.com/skhan_official/ <br>
+Instagram : https://www.instagram.com/abd tanvir/ <br>
 
 <br>
 <p align="center">
@@ -26,7 +27,7 @@ visit : https://www.learntermux.tech/2020/02/Termux-Games-Script.html
 ```pkg install git -y```
 <br>
 <br>
-```git clone https://github.com/khansaad1275/Termux-Games/```
+```git clone https://github.com/kirebainchodd/Termux-Games/blob/```
 <br><br>
 ```cd Termux-Games```
 <br><br>
