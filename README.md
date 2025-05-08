@@ -8,7 +8,7 @@ https://github.com/kirebainchodd/ <br>
 
 Youtube🌎: TRS Tasin YT <br>
 
-Instagram : https://www.instagram.com/abd tanvir/ <br>
+Instagram : https://www.instagram.com/abdtanvir/ <br>
 
 <br>
 <p align="center">
