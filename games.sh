@@ -128,7 +128,11 @@ case $option in
 	echo "[ɪɴsᴛᴀɢʀᴀᴍ]" = [www.instagram.com/𝐲𝐨𝐮𝐫_0_𝐟𝐚𝐯/] | lolcat -as 50
 	echo "[-----------------------------------------------------]" | lolcat -as 100
 	read -p "Press [ENTER] to continue: "
-
+        <br>
+        <p align="center">
+        <img alt="Smiley face" src="https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IMG-20240413-WA0020.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-05-07T13%3A42%3A20.710Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F77c2c9c7cffa4c4c%2FIMG-20240413-WA0020.jpg%3FExpires%3D1841319741%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3D2VCZ5BnjDoazde3IhBX0LiF0dOI7~m7jVgPnr3aAvwPLvfqC8v3UfiLjghOQtm4tMJIg90DO7sSAN~hLrrraWuFVdaW3MUkdFsyVH7MZncfZoEQNNVcPbi7iPweWbf4RQXawqJvA1LeQnVYUdiSf0KeOZ50NxSaKIYvN-TWlRuZp7-V-Vz03EPLZuscEKRf5UnCTkwgLe~Q~19k6pbIxJNNc47XV5K5ynhHy6fKKr93zMdBBYBrCnBHL-Szwdm-OVpZwkU4uyIe5TLtLl1KoMH53HXyn0qQp5l5MkYlTlTzIiJG4443HSV7RmBfcTQ7FzNFaqixpT3rjEhxtvge9ig__%22%7D-by-Learntermux-List.png">
+        </p>
+        <br>
 ;;
 	"0")
 	mkdir $HOME/.termux/ ;echo "extra-keys = [['ESC','/','-','HOME','UP','END'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT']]" >> $HOME/.termux/termux.properties && termux-reload-settings
