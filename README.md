@@ -27,7 +27,7 @@ visit : https://www.learntermux.tech/2020/02/Termux-Games-Script.html
 ```pkg install git -y```
 <br>
 <br>
-```git clone https://github.com/kirebainchodd/Termux-Games/blob/```
+```https://github.com/kirebainchodd/Termux-Games``
 <br><br>
 ```cd Termux-Games```
 <br><br>
